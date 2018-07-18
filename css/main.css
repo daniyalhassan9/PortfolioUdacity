@@ -1,0 +1,63 @@
+h3{
+  float:right;
+}
+.header{
+  margin-top: 5%;
+}
+.header__logo{
+  margin-left: 18%;
+  height: 75px;
+}
+hr{
+  margin-top: 4%;
+  width: 60%;
+  height: 30%;
+}
+.Headings{
+  float: right;
+  margin-right: 10%;
+  display: inline-block;
+  font-family: sans-serif;
+  color: gray;
+}
+.MainPic{
+  float: right;
+  width: 90%;
+  height: 40%;
+  margin-right: 10%;
+  margin-bottom: 2%;
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 18.0%;
+  border-style: inset;
+  border-width: 5px;
+  width: 71%;
+}
+  .color {
+  height: 01%;
+  margin-left: 10%;
+  }
+  
+  .PRO_HEADINGS {
+  float: left;
+  }
+  .inline_heading{
+  display: inline-block;
+  }
+  .img{
+  margin-left: 4%;
+  color: gray;
+  font-family: verdana;
+  }
+  .img1{
+  display: inline-block;
+  margin-right: 2.0px;
+  margin-left: 2.5%;
+
+  }
+  .MasterImg{
+  margin-left: 15.5%;
+  }
